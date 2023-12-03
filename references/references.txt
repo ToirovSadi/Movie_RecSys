@@ -1,0 +1,8 @@
+Links to Website I read about RecSys:
+1. Lecture slides about RecSys (week11)
+2. https://towardsdatascience.com/recommender-systems-a-complete-guide-to-machine-learning-models-96d3f94ea748
+3. https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421
+
+
+Links to Code I saw how to implement RecSys:
+1. https://github.com/tonyjosephsebastians/Recommender-system-using-Neural-networks/tree/main
